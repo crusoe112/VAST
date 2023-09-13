@@ -1,4 +1,4 @@
-# Vigilant Cyber Systems Applicant Screening Challenge
+# Vigilant Applicant Screening Test (VAST)
 
 ## Introduction:
 **Please read the challenge sections of this README before starting the challenges.**
