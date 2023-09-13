@@ -1,5 +1,12 @@
 # Vigilant Cyber Systems Applicant Screening Challenge
 
+## Introduction:
+**Please read the challenge sections of this README before starting the challenges.**
+
+This set of challenges is designed to test your ability to analyze source code and identify vulnerabilities. The challenges are designed to be similar to the types of vulnerabilities you may encounter during a pentest. You are also encouraged to automate the exploit process as much as possible.
+
+Completing all challenges is not required. If you are unable to complete a challenge, please document your thought process and the steps you took in your attempt. You will be asked to explain your process during the interview later, so be sure to take good notes.
+
 ## Requirements:
 - Python 3 - `sudo apt install python3`
 - Docker - `sudo apt install docker.io && sudo systemctl enable docker --now`
