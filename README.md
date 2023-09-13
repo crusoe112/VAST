@@ -35,7 +35,8 @@ This challenge is similar to the last one, but runs within a Docker container. B
 
 ### Hints:
 - Look for any bugs that may make the encryption less secure.
-- Think of what class of encryption algorithm is being used, and look for common vulnerabilities in that class.
+- Think of what class of cipher is being used, and look for common vulnerabilities in that class.
+- The crypto variables may no longer be hardcoded, but is there a way to discover them? (Note: getting it by poking around the container doesn't count)
 
 ### Troubleshooting:
 - If you are having trouble running the program, make sure you have Docker installed. If you are still having trouble, reach out to us and we will help you out.
