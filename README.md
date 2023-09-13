@@ -1,5 +1,9 @@
 # Vigilant Cyber Systems Applicant Screening Challenge
 
+## Requirements:
+- Python 3 - `sudo apt install python3`
+- Docker - `sudo apt install docker.io && sudo systemctl enable docker --now`
+
 ## Challenge 1:
 
 ### Background:
@@ -9,7 +13,7 @@ During an authorized pentest, you have discovered a remotely accessible authenti
 Run the program with the command `python vigilant_session_interview_question_1.py`. The goal is to bypass the authentication mechanism and gain access to the device. You can play around with the source code all you want, but your final solution may not rely on modifying the source code. As you go, document your thought process and the steps you took to solve the challenge. You will be asked to explain your process during the interview later, so be sure to take good notes.
 
 ### Hints:
-- Don't think too hard for this one. You don't need to be a crypto expert to solve this challenge. Bonus points for the simple solution for this one.
+- Don't think too hard for this one. You don't need to be a crypto expert to solve this challenge. Bonus points for having a simple solution for this one.
 
 ### Troubleshooting:
 - If you are having trouble running the program, make sure you have Python 3 installed. If you are still having trouble, reach out to us and we will help you out.
